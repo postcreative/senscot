@@ -1,0 +1,161 @@
+/*
+Theme Name:     Engage - child name
+Description:    Website theme for ...
+Author:         Post Creative
+Author URI:     http://postcreative.co.uk
+Template:       engage
+Version:        1.0
+*/
+
+@import url("../engage/style.css");
+
+/* Basics and typography
+========================== */
+
+body{
+	padding: ;
+	background: ;
+	font-family: ;
+	font-weight: ;
+	font-size: ;
+	line-height: ;
+	color: ;
+	
+}
+
+
+a{
+    color:;
+}
+
+a:hover{
+    color:;
+}
+
+h1, h2, h3, .widget-inner h3 label{
+	font-family: ;
+	
+}
+
+h1{
+	font-size: ;
+	line-height: ;
+}
+
+	.page-header {
+    ;
+}
+
+h2{
+	font-size: ;
+	line-height: ;
+}
+
+		
+
+h3, .widget-inner h3 label {
+    font-size: ;
+    line-height: ;
+}
+
+
+
+
+/* Header and Menu
+========================== */
+
+
+#banner {
+    background: ;
+    width: 100%;
+    margin-bottom:40px;
+    height:;   
+}
+
+.brand h1 a {
+	background: url('./images/logo.png') no-repeat ;	
+	display: block;
+	height: ;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	margin-top:;
+}
+
+.brand h1 a { 
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+
+.navbar .nav>li>a {
+   
+    padding: 
+    color: ;
+    text-decoration: ;
+    
+}
+
+.navbar .nav>li>a:hover, .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
+    color: ;
+    
+  
+}
+
+
+.dropdown-menu > li > a {
+    color: ;
+    text-align: left;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+    color: ;
+    background: ;
+    text-align: left;
+}
+
+
+
+/* Containers 
+
+	========================== */
+
+
+
+.widget, article{
+
+}
+
+
+
+
+
+/* Buttons
+	========================== */
+
+.btn-primary,  .container input[type="submit"] {
+	font-family: ;
+} 
+
+.btn-primary, .container input[type="submit"]  {
+
+}
+
+
+.container input[type="submit"] {
+
+}
+
+.contact-submit .container input[type="submit"]{
+	float: right;
+	margin: 0 110px 0 0;
+}
+
+.btn-primary:hover, .container input[type="submit"]:hover {
+	background: ;
+}
+
+
+
+
