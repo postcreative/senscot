@@ -1,2 +1,2 @@
-Engage child theme template
+Senscot - Engage child theme template
 ============
